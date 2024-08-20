@@ -30,3 +30,5 @@ It leverages `tqdm` to display a progress bar during processing and formats the 
 The script will generate a file named `bitcoin_balances.txt` containing the processed addresses and their corresponding balances (in satoshis) or error messages if an issue occurs.
 
 **Example Output (bitcoin_balances.txt):**
+
+Buy Me Coffee 3KFthrrU1xKsYrAVVWZ8iqqmqzg6RQwMXB
