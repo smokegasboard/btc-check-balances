@@ -22,7 +22,7 @@ It leverages `tqdm` to display a progress bar during processing and formats the 
     - Create a text file named `addresses.txt` containing each Bitcoin address on a separate line.
 3. **Run the script:**
     ```bash
-    python bitcoin_balance_checker.py
+    python check_balance.py
     ```
 
 **Output:**
